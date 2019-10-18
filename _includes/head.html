@@ -5,7 +5,7 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  <link rel="stylesheet" href="{{ site.resource }}/css/main.scss }}">
+  <link rel="stylesheet" href="{{ /css/main.scss | prepend: site.url }}">
   <link
     rel="canonical"
     href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
