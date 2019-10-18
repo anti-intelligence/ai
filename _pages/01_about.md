@@ -11,8 +11,4 @@ My research focuses on cities, labor, and technology. I am currently teaching at
 
 [@kvnrogan](https://twitter.com/kvnrogan) on Twitter
 
-Some papers I've written and other stuff I've done:
-
-* Care Against Growth
-* The Universal Factory
-* Yamal Events Report 2071
+CV coming soon
