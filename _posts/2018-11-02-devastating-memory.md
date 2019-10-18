@@ -50,5 +50,3 @@ military space—not a new representation of space but a spatial practice (that 
 Not about supplying specificity to the overall condition of abstraction, but rather an attempt to describe two attitudes which abstraction may be thought of as having
 
 The precise relationship of the determination with both the abstract and the concrete remains something I am unsure of.
-
-{% endfor %}
