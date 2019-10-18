@@ -8,7 +8,7 @@ twitter_username: kvnrogan
 
 # Build settings
 sass:
-  sass_dir: _sass
+  sass_dir: /ai/_sass
 include: ['_pages']
 markdown: kramdown
 
