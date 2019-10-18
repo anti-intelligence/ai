@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+
+{% for post in site.posts %}
+		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt | prepend: site.baseurl }}</p>
+{% endfor %}
+
+<h3><a href="https://www.citylab.com/design/2019/06/smart-city-photos-technology-marketing-branding-jibberjabber/592123/">"What's a smart city supposed to look like?" on CityLab</a></h3>
+<p>An intro to the techno-social arguments behind the representations of smart cities</p>
