@@ -2,10 +2,12 @@
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+  
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  
+  <link rel="icon" href="{{ root_url }}/assets/favicon.ico" type="image/x-icon" />
 
-  <link rel="stylesheet" href="{{ site.resource }}/css/main.scss }}">
+  <link rel="stylesheet" href="{{ root_url }}/css/main.css">
   <link
     rel="canonical"
     href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
@@ -20,4 +22,19 @@
     rel="stylesheet"
     type="text/css"
   />
+  
+<!-- Twitter cards -->
+  <meta name="twitter:title"   content="{{ page.title }}">
+
+  {% if page.summary %}
+  <meta name="twitter:description" content="{{ page.summary }}">
+  {% else %}
+  <meta name="twitter:description" content="{{ site.description }}">
+  {% endif %}
+
+  {% if page.image %}
+  <meta name="twitter:image" content="https://anti-intelligence.github.io/ai/assets/img/default.jpg">
+  {% endif %}
+<!-- end of Twitter cards -->
+  
 </head>
