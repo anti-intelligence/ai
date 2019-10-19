@@ -6,7 +6,7 @@ excerpt: The political economy of a chunk of concrete, presented as a talk at Th
 
 <h2>Care Against Growth</h2>
 
-<img src="https://anti-intelligence.github.io/ai/assets/307.jpg" alt="Welcome to the future" width="600">
+<img src="https://anti-intelligence.github.io/ai/assets/307.jpg" alt="Welcome to the future" width="800">
 
 Sidewalk Labs’ smart city project in Quayside, Toronto has become a combination of technological lodestar and discursive black hole. Since Sidewalk’s initial response to Waterfront Toronto’s Request for Proposals in 2017 to develop the Toronto waterfront, up through the recent release of the Master Innovation and Development Plan earlier this year, every tortured step in the process has been under justly deserved scrutiny. Of these, Bianca Wylie’s excoriation of the project’s governance nightmares,  Shannon Mattern’s deflating of Sidewalk’s community engagement and attempts at ‘co-design’,[^2]  and Molly Sauter’s discussion of the colonial eye of the project’s renderings are all indispensible.  My focus today is much smaller in scope—about a meter in diameter, if memory serves.
 
