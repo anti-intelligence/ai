@@ -5,7 +5,6 @@ excerpt: The political economy of a chunk of concrete, presented as a talk at Th
 ---
 
 <h2>Care Against Growth</h2>
-{% for post in site.posts %}
 
 ![Welcome to the future: Sidewalk Labs' 307]({{site.url}}{{site.baseurl}}/assets/307.jpg)
 
@@ -32,5 +31,3 @@ Sidewalk Toronto’s thirst for absolute technological growth is a fanatical hea
 This new standpoint throws the differences between the RUP and the Dynamic Street into harsh relief. Though IFSTTAR is by no means a hero of the world to come, the RUP process offers an instructive example of what care could look like in an infrastructural context. In the RUP report, I was shocked to find that the pavers themselves were ultimately not the essential element, though that was the initial intention of the project. After design meetings with engineers and “network operators”, the RUP team realized that the paver itself was less important than the substrate beneath it, and returned to the drawing board. Engineers developed a new substrate, which they called “Structural Excavatable Cement-Treated Material” (or SECTM). IFSTTAR’s report recognizes SECTM as the “most innovative aspect” of the project, overall facilitating the RUP’s promise for greater ease of maintenance and installation.  When Sidewalk and Carlo Ratti Associati adapted the RUP for Toronto, they conspicuously left out SECTM. Even small, seemingly economical designs and dialogues such as this one can potentially become the way we build our world: not as a concatenation of technologies and immutable concepts, but as close collaboration, as the expression of social relationships, as care. Putting this into practice currently puts us at war with the inexorable rise of technological urbanism like Sidewalk’s—a war which we may be already losing.
 
 [^2]: poope
-
-{% endfor %}
