@@ -9,7 +9,7 @@ future: true
 
 # Build settings
 sass:
-  sass_dir: /ai/_sass
+  sass_dir: _sass
 include: ['_pages']
 markdown: kramdown
 
