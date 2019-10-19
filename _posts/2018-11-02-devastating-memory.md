@@ -5,7 +5,6 @@ excerpt: Talk given at Island Dynamics in Macau. Some notes on military space
 ---
 
 <h2>Devastating Memory</h2>
-{% for post in site.posts %}
 
 <h3>Introduction</h3>
 
