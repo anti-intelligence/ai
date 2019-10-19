@@ -5,6 +5,7 @@ description: Work of Kevin Rogan
 root: /ai
 url: 'http://anti-intelligence.github.io' # the base hostname & protocol for your site
 twitter_username: kvnrogan
+future: true
 
 # Build settings
 sass:
