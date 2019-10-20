@@ -6,6 +6,8 @@ excerpt: Talk given at Island Dynamics in Macau. Some notes on military space
 
 <h2>Devastating Memory</h2>
 
+<img src="https://anti-intelligence.github.io/ai/assets/montcrief.jpg" alt="Columbiad disappearing gun" width="800">
+
 <h3>Introduction</h3>
 
 This talk is an attempt to solidify ideas I am currently thinking through about the historical character of war, not as teleological escalation but as a contingent social process. This is a talk about history as it moves and is moved by space.
@@ -24,6 +26,8 @@ Most commentators on Lefebvre address his analogical treatment of space as a sim
 
 I would like to focus on two attitudes, among many which begin to define military space. Military space disappears and projects. It hides and it explodes outwards. To attempt to define the contours of military space and its relationship to abstraction, I would like to make a case study of the Endicott fortification system, a distributed coastal defense network on both the East and West coasts of the United States and the Gulf of Mexico.
 
+<img src="https://anti-intelligence.github.io/ai/assets/fort-map.jpg" alt="Map of New York's Endicott fort system and the reach of their armament" width="800">
+
 <h3>Endicott</h3>
 
 In 1885, then-US President Grover Cleveland asked his Secretary of War, William C. Endicott, to create a ‘Board of Fortifications’, tasked with the creation of recommendations to significantly upgrade the United States’ coastal defenses, which had ceased since the 1870s. After the Civil War—in which the bulk of military budget and development had gone into ‘monitor ships’ for river warfare—the United States’ Navy was woefully out of date. Endicott’s report proposed $127 million (or $3.2 billion today) be poured into developing a reticulated system of fortifications and defensive batteries at strategic locations all along the coast of the United States, with a particular focus on urban centers. “The recommendations were enormous and arguably unrealistic, covering 27 locations…[and] including armament, floating batteries, submarine mines, and torpedo boats”.
@@ -38,6 +42,8 @@ To fortify is to spatialize and technologize logistical knowledge. The foritifie
 Position alone is not enough to truly disappear. Defense must be total when it comes to the military determination of space. This is evident, of course, in the M1895 gun. In its ‘coastal defense’ configuration the M1895 was mounted on an M1896, M1897, or M1901 ‘disappearing carriage’, which allowed the massive bulk of the gun to drop behind its concrete walls, into a hollowed out part of the battery. The nature of the fortification was such that even its offensive emanations must be concealed unless absolutely necessary.
 
 Military disappearance is also a historical phenomenon. The Endicott system lasted until 1910; the M1895 gun in service until 1945. After this, there were two further disappearances. Abstract space’s indifference to usage is present here in a militarily contingent way: with ocean-facing coastal defense obsolesced in favor of air defense, the former forts of the Endicott system undergo a rapid transformation culminating in dissolution. Take, for example, Fort Tilden. After World War II, the coastal guns were retired and Nike Hercules anti-aircraft missiles soon took their place. Other forts disappeared into sprawling peacetime complexes, hidden behind fences and guard posts or under overgrowth.. Before long, even these were made obsolete, superseded by the advent of the Intercontinental Ballistic Missiles such as the Minuteman III. And even here was a further, dialectically unfolding disappearance: the ICBMs into hardened bunkers, and Fort Tilden into the control of the Park Service. The total indifference of abstract space continues unabated. One may imagine a future in which, for whatever reason, New York may again need coastal defenses, and the seamless transition the parks may make back to a hardened—which is to say, disappearing—military emplacement. This is the conditionality of abstract space: there is no condition at all. There is only abstraction’s “devastating conquest of the lived by the conceived”.
+
+<img src="https://anti-intelligence.github.io/ai/assets/minuteman.jpg" alt="Minuteman III missile launch" width="800">
 
 <h3>Projection</h3>
 
