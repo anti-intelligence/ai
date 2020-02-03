@@ -1,29 +1,9 @@
 ---
 layout: default
 ---
-<h2>Posts</h2>
+<h2>Recent posts</h2>
 
 {% for post in site.posts %}
 		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     <p>{{ post.excerpt | prepend: site.baseurl }}</p>
 {% endfor %}
-
-<h2>Official stuff</h2>
-
-<h3><a href="https://reallifemag.com/stepping-stones/">"Stepping Stones" at Real Life mag</a></h3>
-<p>By marshalling a vision of the future, Sidewalk Labs maximizes the brutality of urban work and maintenance.</p>
-
-<h3><a href="https://arcc-journal.org/index.php/arccjournal/article/view/839">"The Universal Factory" at ENQ Journal</a></h3>
-<p>What does it mean if data has value? A look at an ambiguous concept through the lens of Marxist political economy.</p>
-
-<h3><a href="https://www.citylab.com/design/2019/06/smart-city-photos-technology-marketing-branding-jibberjabber/592123/">"What's a smart city supposed to look like?" on CityLab</a></h3>
-<p>An intro to the techno-social arguments behind the representations of smart cities</p>
-
-<h3><a href="https://homintern.soy/posts/workcap.html">Organization and Obliteration</a></h3>
-<p>A review of Mario Tronti's <i>Workers and Capital</i> for HOMINTERN Magazine.</p>
-
-<h3><a href="http://sumrevija.si/en/eng-edmund-berger-kevin-rogan-yamal-events-report-2071//">Yamal Events Report 2071</a></h3>
-<p>Collected report from NATO's OPEN EYE review of the events of the Port of Sabetta in 2071. Shown at the Slovenian pavilion in the 2019 Venice Biennale and published by Šum.</p>
-
-<h3><a href="https://cloister4.com">Cloister IV</a></h3>
-<p>Leak package from the 8 Hours War in Lagos, released 31 July 2036.</p>
