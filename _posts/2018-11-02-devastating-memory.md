@@ -37,6 +37,7 @@ Endicott’s program was never fully realized, and didn’t truly come into effe
 In many ways, the formal character of the fortifications—commonly, open-roofed concrete depressions surrounded by earthen glacis—was a substrate for the true star of the Endicott modernization: the “large caliber-breech loading artillery”, such as the 12-inch M1895 cannon which sat behind and inside the concrete defenses.
 
 <h3>Disappearance</h3>
+
 To fortify is to spatialize and technologize logistical knowledge. The foritified position spatializes the social hierarchy of military order by making legible the order in the territory. With respect to the Endicott system, the establishment of the concrete walls establishes the position: high, out of sight, with quite literally a commanding view of the territory. When constructed on a continental scale, we can identify some commonalities between the most disparate military spaces.
 
 Position alone is not enough to truly disappear. Defense must be total when it comes to the military determination of space. This is evident, of course, in the M1895 gun. In its ‘coastal defense’ configuration the M1895 was mounted on an M1896, M1897, or M1901 ‘disappearing carriage’, which allowed the massive bulk of the gun to drop behind its concrete walls, into a hollowed out part of the battery. The nature of the fortification was such that even its offensive emanations must be concealed unless absolutely necessary.

@@ -2,9 +2,9 @@
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  
+
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  
+
   <link rel="icon" href="{{ root_url }}/assets/favicon.ico" type="image/x-icon" />
 
   <link rel="stylesheet" href="{{ root_url }}/css/main.css">
@@ -22,19 +22,26 @@
     rel="stylesheet"
     type="text/css"
   />
-  
-<!-- Twitter cards -->
-  <meta name="twitter:title"   content="{{ page.title }}">
 
-  {% if page.summary %}
-  <meta name="twitter:description" content="{{ page.summary }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@kvnrogan">
+  <meta name="twitter:title" content="{{ page.title }}">
+
+  {% if page.description %}
+    <meta name="twitter:description"
+      content="{{ page.meta_description }}">
   {% else %}
-  <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:description"
+      content="{{ page.content | strip_html | xml_escape
+        | truncate: 200 }}">
   {% endif %}
 
-  {% if page.image %}
-  <meta name="twitter:image" content="https://anti-intelligence.github.io/ai/assets/img/default.jpg">
+  {% if page.image.thumb %}
+    <meta name="twitter:image"
+      content="{{ site.urlimg }}/{{ page.image.thumb }}">
+  {% else %}
+    <meta name="twitter:image"
+      content="/_site/assets/img/cyclograph.jpg">
   {% endif %}
-<!-- end of Twitter cards -->
-  
+
 </head>

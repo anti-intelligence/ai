@@ -1,16 +1,20 @@
 ---
 layout: default
 ---
-<h3><a href="https://reallifemag.com/stepping-stones/">"Stepping Stones" at Real Life mag</a></h3>
-<p>By marshalling a vision of the future, Sidewalk Labs maximizes the brutality of urban work and maintenance.</p>
-
-<h3><a href="https://arcc-journal.org/index.php/arccjournal/article/view/839">"The Universal Factory" at ENQ Journal</a></h3>
-<p>What does it mean if data has value? A look at an ambiguous concept through the lens of Marxist political economy.</p>
+<h2>Posts</h2>
 
 {% for post in site.posts %}
 		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     <p>{{ post.excerpt | prepend: site.baseurl }}</p>
 {% endfor %}
+
+<h2>Official stuff</h2>
+
+<h3><a href="https://reallifemag.com/stepping-stones/">"Stepping Stones" at Real Life mag</a></h3>
+<p>By marshalling a vision of the future, Sidewalk Labs maximizes the brutality of urban work and maintenance.</p>
+
+<h3><a href="https://arcc-journal.org/index.php/arccjournal/article/view/839">"The Universal Factory" at ENQ Journal</a></h3>
+<p>What does it mean if data has value? A look at an ambiguous concept through the lens of Marxist political economy.</p>
 
 <h3><a href="https://www.citylab.com/design/2019/06/smart-city-photos-technology-marketing-branding-jibberjabber/592123/">"What's a smart city supposed to look like?" on CityLab</a></h3>
 <p>An intro to the techno-social arguments behind the representations of smart cities</p>
