@@ -3,7 +3,7 @@ layout: default
 title: Devastating Memory
 excerpt: Talk given at Island Dynamics in Macau. Some notes on military space
 ---
-<img src="/assets/fort-hamilton.jpg" alt="Fort Hamilton, NY" width="800"/>
+<img src="/assets/fort-hamilton.jpg" alt="Fort Hamilton, NY" width="1000"/>
 
 <h2>Devastating Memory</h2>
 
@@ -24,8 +24,6 @@ Lefebvre’s spatial framework analogically transfers Marx’s method as elabora
 Most commentators on Lefebvre address his analogical treatment of space as a simple copying-over of Marx’s analysis of the commodity in the opening pages of the Grundrisse. Marx mentions the idea of “production in general” (20). This “general category, this common element sifted out by comparison, is itself segmented many times over and splits into different determinations”—basically, this means that though production may be a constant (writers such as Lukács will identify production qua labor as the origin of human social being itself). From production in general, there are the determinations, and from there, a “particular branch of production” (such as agriculture, vehicle manufacturing, being a barista, hauling freight, and so on). This is not a ‘new rung’ or ‘topographical division’ within the dialectical movement from abstract to concrete: the determination is not an object on its own but rather a movement within the method. The determination may be seen as a sort of speciation or heuristic of abstraction in general. What this means in terms of military space is as Edward Thompson wrote about the nuclear bomb in Notes on exterminism, the weapon is “thing of menace…[as well as a] component in a weapon-system”, taking care to understand that “producing, manning, and supporting that system is a correspondent social system”. That social system—that which administers the bomb, the gun, etc.—is the determinant. Feminist critical conflict studies does important work in this arena, exploring the military social system and exposing its violent, patriarchal perpetuation, the reproduction of its social relations left to bloodthirsty imperialists and soldier males.
 
 I would like to focus on two attitudes, among many which begin to define military space. Military space disappears and projects. It hides and it explodes outwards. To attempt to define the contours of military space and its relationship to abstraction, I would like to make a case study of the Endicott fortification system, a distributed coastal defense network on both the East and West coasts of the United States and the Gulf of Mexico.
-
-<img src="/assets/fort-map.jpg" alt="Map of New York's Endicott fort system and the reach of their armament" width="800">
 
 <h3>Endicott</h3>
 

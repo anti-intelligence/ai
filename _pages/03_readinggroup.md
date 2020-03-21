@@ -4,6 +4,8 @@ layout: page
 title: reading group
 permalink: /reading_group/
 ---
+<img src="/assets/plan_obus.jpg" alt="Le Corbusier's Plan Obus for Algiers" width="1000"/>
+
 
 <h3>Resources for reading group for Manfredo Tafuri's Architecture and Utopia</h3>
 
