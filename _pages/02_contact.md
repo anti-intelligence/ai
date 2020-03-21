@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: writing
-permalink: /writing/
+title: projects
+permalink: /projects/
 ---
 
 <h3><a href="https://reallifemag.com/stepping-stones/">"Stepping Stones" at Real Life mag</a></h3>
