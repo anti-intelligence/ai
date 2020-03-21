@@ -6,7 +6,7 @@ excerpt: Talk given at Island Dynamics in Macau. Some notes on military space
 
 <h2>Devastating Memory</h2>
 
-<img src="https://anti-intelligence.github.io/ai/assets/montcrief.jpg" alt="Columbiad disappearing gun" width="800">
+![Columbiad gun](/assets/fort-hamilton.jpg)
 
 <h3>Introduction</h3>
 

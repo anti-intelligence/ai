@@ -5,8 +5,8 @@ title: reading group
 permalink: /reading_group/
 ---
 
-<h3>Resources for reading group for Manfredo Tafuri's *Architecture and Utopia*</h3>
+<h3>Resources for reading group for Manfredo Tafuri's Architecture and Utopia</h3>
 
-Sign up <a href="https://forms.gle/8a9VcA8g84KqJwbC8">here</a>. You can also choose a preferred day of the week in the form. 
+Sign up <a href="https://forms.gle/8a9VcA8g84KqJwbC8">here</a>. You can also choose a preferred day of the week in the form.
 
-Download the PDF <a href="https://ufile.io/2w58zykf">here</a>.
+A PDF download for the book is available <a href="https://ufile.io/2w58zykf">here</a>.
