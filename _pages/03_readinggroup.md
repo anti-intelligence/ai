@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: reading group
+title: Architecture and Utopia reading group
 permalink: /reading_group/
 ---
 <img src="/assets/plan_obus.jpg" alt="Le Corbusier's Plan Obus for Algiers" width="1000"/>
