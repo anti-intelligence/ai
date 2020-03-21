@@ -3,10 +3,9 @@ layout: default
 title: Devastating Memory
 excerpt: Talk given at Island Dynamics in Macau. Some notes on military space
 ---
+<img src="/assets/fort-hamilton.jpg" alt="Fort Hamilton, NY" width="800"/>
 
 <h2>Devastating Memory</h2>
-
-![Columbiad gun](/assets/fort-hamilton.jpg)
 
 <h3>Introduction</h3>
 
