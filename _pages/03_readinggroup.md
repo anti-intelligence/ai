@@ -13,4 +13,6 @@ image: /assets/plan_obus.jpg
 
 Sign up <a href="https://forms.gle/YZUTgeoyJfsJowwv8">here</a>. You can also choose a preferred day of the week in the form.
 
+I was thinking we could begin the week of March 29th with the essay "Toward a Critique of Architectural Ideology", Tafuri's essay which was later expanded into *Architecture and Utopia*. This essay is available for download <a href="https://ufile.io/8vu6jt9h">here</a>.
+
 A PDF download for the book is available <a href="https://ufile.io/2w58zykf">here</a>.
