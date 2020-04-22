@@ -16,4 +16,4 @@ We'll be beginning with "Toward a Critique of Architectural Ideology", Tafuri's 
 
 Sign up <a href="https://forms.gle/YZUTgeoyJfsJowwv8">here</a>. You can also choose a preferred day of the week in the form.
 
-A PDF download for the book is available <a href="https://ufile.io/2w58zykf">here</a>.
+A PDF download for the book is available <a href="https://anti-intelligence.space/assets/Tafuri%20-%20Architecture%20and%20Utopia-web.pdf">here</a>.
