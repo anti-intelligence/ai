@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: projects
-permalink: /projects/
+title: writing
+permalink: /writing/
 ---
 
 <h3><a href="https://failedarchitecture.com/the-city-and-the-city-and-coronavirus/">"The City and the City and Coronavirus" at Failed Architecture</a></h3>
@@ -22,9 +22,6 @@ permalink: /projects/
 
 <h3><a href="http://sumrevija.si/en/eng-edmund-berger-kevin-rogan-yamal-events-report-2071//">Yamal Events Report 2071</a></h3>
 <p>Collected report from NATO's OPEN EYE review of the events of the Port of Sabetta in 2071. Shown at the Slovenian pavilion in the 2019 Venice Biennale and published by Šum.</p>
-
-<h3><a href="https://cloister4.com">Cloister IV</a></h3>
-<p>Leak package from the 8 Hours War in Lagos, released 31 July 2036.</p>
 
 
 <h3>Masters thesis</h3>
