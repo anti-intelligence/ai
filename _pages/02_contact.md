@@ -5,6 +5,9 @@ title: writing
 permalink: /writing/
 ---
 
+<h3><a href="https://failedarchitecture.com/digital-contact-tracing-is-the-new-smart-frontier-of-urban-surveillance/">"Digital Contact Tracing is the New Smart Frontier of Urban Surveillance" at Failed Architecture</a></h3>
+<p>Like the title says.</p>
+
 <h3><a href="https://failedarchitecture.com/the-city-and-the-city-and-coronavirus/">"The City and the City and Coronavirus" at Failed Architecture</a></h3>
 <p>The city doesn't get sick and die, people do.</p>
 
