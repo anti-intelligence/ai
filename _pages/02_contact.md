@@ -5,6 +5,12 @@ title: writing
 permalink: /writing/
 ---
 
+<h3><a href="https://www.archpaper.com/2020/10/flight-simulator-2020-provides-a-worldwide-playset-for-architects-and-urbanists/">"Around the World in 80 Minutes" at The Architect's Newspaper</a></h3>
+<p>A 'video game', with secret usefulness.</p>
+
+<h3><a href="https://berkeleyplanningjournal.com/volume-31/2020/landscape-entanglements-toward-a-descriptive-project-for-planning-research-h9jr3">"Landscape Entanglements" with Joseph Heathcott at Berkeley Planning Journal</a></h3>
+<p>How do the boundaries between town and country disappear?</p>
+
 <h3><a href="https://failedarchitecture.com/digital-contact-tracing-is-the-new-smart-frontier-of-urban-surveillance/">"Digital Contact Tracing is the New Smart Frontier of Urban Surveillance" at Failed Architecture</a></h3>
 <p>Like the title says.</p>
 
