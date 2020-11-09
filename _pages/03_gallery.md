@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: Renders
+title: renders
 permalink: /renders/
 ---
 
