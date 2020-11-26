@@ -5,6 +5,12 @@ title: writing
 permalink: /writing/
 ---
 
+<h3><a href="https://failedarchitecture.com/nycs-reopening-plans-depend-on-a-holy-trinity-of-diners-designers-and-capital/">"NYC’s Reopening Plans Depend on a Holy Trinity of Diners, Designers, and Capital</a></h3>
+<p>Tactical urbanism has been blessed by the pandemic with its own Reichstag Fire.</p>
+
+<h3><a href="https://www.archpaper.com/2020/11/op-ed-masterplanet-bjarke-ingels-architecture-has-become-universal-and-incapable-difference/">"Little BIG Planet" at The Architect's Newspaper</a></h3>
+<p>Taking a snide little potshot at Bjarke Ingels' 'Masterplanet'.</p>
+
 <h3><a href="https://www.archpaper.com/2020/10/flight-simulator-2020-provides-a-worldwide-playset-for-architects-and-urbanists/">"Around the World in 80 Minutes" at The Architect's Newspaper</a></h3>
 <p>A 'video game', with secret usefulness.</p>
 
