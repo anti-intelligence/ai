@@ -5,7 +5,10 @@ title: writing
 permalink: /writing/
 ---
 
-<h3><a href="https://failedarchitecture.com/nycs-reopening-plans-depend-on-a-holy-trinity-of-diners-designers-and-capital/">"NYC’s Reopening Plans Depend on a Holy Trinity of Diners, Designers, and Capital</a></h3>
+<h3><a href="https://www.archpaper.com/2021/02/keller-easterling-medium-design-review/">"Keller Easterling’s _Medium Design_ ignores the role of power in design"</a></h3>
+<p>Book review</p>
+
+<h3><a href="https://failedarchitecture.com/nycs-reopening-plans-depend-on-a-holy-trinity-of-diners-designers-and-capital/">"NYC’s Reopening Plans Depend on a Holy Trinity of Diners, Designers, and Capital"</a></h3>
 <p>Tactical urbanism has been blessed by the pandemic with its own Reichstag Fire.</p>
 
 <h3><a href="https://www.archpaper.com/2020/11/op-ed-masterplanet-bjarke-ingels-architecture-has-become-universal-and-incapable-difference/">"Little BIG Planet" at The Architect's Newspaper</a></h3>
