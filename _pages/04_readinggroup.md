@@ -1,14 +1,12 @@
 ---
 
 layout: page
-title: about
-permalink: /about/
+title: Uneven Development Reading Group
+permalink: /reading-group/
 ---
 
-My name is Kevin Rogan.
+From the intellectual masterminds who brought you the critically acclaimed _Architecture and Utopia_ reading group comes a new reading group exploring Neil Smith's _Uneven Development: Nature, Capital, and the Production of Space_! Meeting every Monday beginning March 8th on Zoom.
 
-My research focuses on cities, labor, and technology. I graduated from The New School in May 2019 with a masters in "Theories of Urban Practice". Before that, I got my M.Arch and worked as an architect for a while. I'm an editor at Failed Architecture now, and am a PhD student in 'Global Urban Studies' at Rutgers University-Newark.
+Sign up by emailing unevendevelopment [at] protonmail.com
 
-[@kvnrogan](https://twitter.com/kvnrogan) on Twitter
-
-[LinkedIn](https://www.linkedin.com/in/kejarogan/) (avoid this if at all possible)
+Book is available on libgen (download the 3rd edition pdf)
