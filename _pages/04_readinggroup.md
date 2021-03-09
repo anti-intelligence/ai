@@ -10,8 +10,9 @@ image: /assets/development.jpg
 
 From the intellectual masterminds who brought you the critically acclaimed _Architecture and Utopia_ reading group comes a new reading group exploring Neil Smith's _Uneven Development: Nature, Capital, and the Production of Space_! Meeting every Monday at 7pm EST beginning March 8th on Zoom.
 
-*Next meeting: March 15th
-Reading: Chapter 1: The Ideology of Nature*
+####Next meeting: March 15th
+
+####Reading: Chapter 1: The Ideology of Nature
 
 Please add notes/quotes/whatever pertaining to the reading in the <a href="https://docs.google.com/document/d/1KMyhlniFq85lNqj_JAgso1GJ1n7prU48WbXGBs0nid0/edit?usp=sharing">communal Gdoc</a>.
 
