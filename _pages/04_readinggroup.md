@@ -4,9 +4,9 @@ layout: page
 title: reading group
 permalink: /reading-group/
 summary: We're doing a reading group for Karl Marx's Ecosocialism
-image: /assets/development.jpg
+image: /assets/epicsolarpunk.jpg
 ---
-<img src="/assets/development.jpg" alt="a picture of some development" width="1000"/>
+<img src="/assets/epicsolarpunk.jpg" alt="a better world is possible" width="1000"/>
 
 From the intellectual masterminds who brought you the critically acclaimed _Architecture and Utopia_ and _Uneven Development_ reading groups comes a new one exploring Kohei Saito's _Karl Marx’s Ecosocialism: Capital, Nature, and the Unfinished Critique of Political Economy_! Meeting every Monday at 7pm EST beginning May 17th on Zoom.
 
