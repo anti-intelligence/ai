@@ -14,4 +14,4 @@ Please add notes/quotes/whatever pertaining to the reading in the <a href="https
 
 Sign up by emailing unevendevelopment [at] protonmail.com or, preferably, dming me on Twitter because it's annoying checking the email all the time
 
-Book is available on libgen (download the 3rd edition pdf)
+Book is available on libgen
