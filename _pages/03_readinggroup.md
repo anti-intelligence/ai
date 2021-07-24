@@ -4,9 +4,9 @@ layout: page
 title: reading group
 permalink: /reading-group/
 summary: We're doing a reading group for Henri Lefebvre's _Production of Space_
-image: /assets/InspoQuote.jpg
+image: /assets/InspoQuote.jpeg
 ---
-<img src="/assets/InspoQuote.jpg" alt="a better world is possible" width="1000"/>
+<img src="/assets/InspoQuote.jpeg" alt="a better world is possible" width="1000"/>
 
 From the intellectual masterminds who brought you the critically acclaimed _Architecture and Utopia_, _Uneven Development_, and _Karl Marx’s Ecosocialism: Capital, Nature, and the Unfinished Critique of Political Economy_ comes a new reading group for Henri Lefebvre's classic, beloved of architecture students everywhere, _The Production of Space_! This group, hereafter known as the __Montagskreis__, meets every Monday at 7pm EST beginning July 26th on Zoom.
 
