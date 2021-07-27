@@ -25,6 +25,7 @@ __Reading schedule__
 <li>__10/4__ Chapter 6, section I - XX</li>
 <li>__10/11__ Chapter 6, section XXI - XXX</li>
 <li>__10/18__ Chapter 7 (& bonus afterword w/David Harvey)</li>
+</ul>
 
 Please add notes/quotes/whatever pertaining to the reading in the <a href="https://docs.google.com/document/d/1sAV_hEebuSJzTKsod17S4M4xhYSgPrblMrxaxqcOgco/edit?usp=sharing">communal Gdoc</a>.
 
