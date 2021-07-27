@@ -12,19 +12,19 @@ From the intellectual masterminds who brought you the critically acclaimed _Arch
 
 __Reading schedule__
 <ul>
-<li> __7/26__ Chapter 1, sections I - X</li>
-<li> __8/2__ Chapter 1, sections XI - XXI</li>
-<li> __8/9__ Chapter 2, sections I - VII</li>
-<li> __8/16__ Chapter 2, sections VIII - XV</li>
-<li> __8/23__ Chapter 3, section I - VII</li>
-<li> __8/30__ Chapter 3, section IX - XVII</li>
-<li> __9/6__ Chapter 4, section I - IX</li>
-<li> __9/13__ Chapter 4, section X - XIV</li>
-<li> __9/20__ Chapter 5, section I - XIII</li>
-<li> __9/27__ Chapter 5, section XIV - XXIII</li>
-<li> __10/4__ Chapter 6, section I - XX</li>
-<li> __10/11__ Chapter 6, section XXI - XXX</li>
-<li> __10/18__ Chapter 7 (& bonus afterword w/David Harvey)</li>
+<li> __8/2__ Chapter 1, sections I - X</li>
+<li> __8/9__ Chapter 1, sections XI - XXI</li>
+<li> __8/16__ Chapter 2, sections I - VII</li>
+<li> __8/23__ Chapter 2, sections VIII - XV</li>
+<li> __8/30__ Chapter 3, section I - VII</li>
+<li> __9/6__ Chapter 3, section IX - XVII</li>
+<li> __9/13__ Chapter 4, section I - IX</li>
+<li> __9/20__ Chapter 4, section X - XIV</li>
+<li> __9/27__ Chapter 5, section I - XIII</li>
+<li> __10/4__ Chapter 5, section XIV - XXIII</li>
+<li> __10/11__ Chapter 6, section I - XX</li>
+<li> __10/18__ Chapter 6, section XXI - XXX</li>
+<li> __10/25__ Chapter 7 (& bonus afterword w/David Harvey)</li>
 </ul>
 
 
