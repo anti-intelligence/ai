@@ -4,6 +4,11 @@ layout: page
 title: writing
 permalink: /writing/
 ---
+<h3><a href="https://thebaffler.com/latest/the-architects-autobiographer-rogan">"Justin Beal's _Sandfuture_ is a tired little scrap of autofiction"</a></h3>
+<p>Book review</p>
+
+<h3><a href="https://reallifemag.com/send-in-the-clouds/">"Send in the clouds: bitcoin cities and undergrad business major fantasies"</a></h3>
+<p>The last time I'll ever write about 'smart cities'</p>
 
 <h3><a href="https://www.archpaper.com/2021/02/keller-easterling-medium-design-review/">"Keller Easterling’s _Medium Design_ ignores the role of power in design"</a></h3>
 <p>Book review</p>
