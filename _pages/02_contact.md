@@ -4,13 +4,21 @@ layout: page
 title: writing
 permalink: /writing/
 ---
-<h3><a href="https://thebaffler.com/latest/the-architects-autobiographer-rogan">"Justin Beal's _Sandfuture_ is a tired little scrap of autofiction"</a></h3>
+Selected published articles below. See also a href="https://kevinrogan.substack.com/">my Substack</a> here for more throwaway stuff, usually writeups on books.
+
+<h3><a href="https://www.archpaper.com/2022/04/a-new-book-argues-that-architecture-desperately-needs-fixing-but-what-if-it-needs-breaking-instead/">"Picking a Fight"</a></h3>
+<p>Architecture and extraction: friends forever</p>
+
+<h3><a href="https://thebaffler.com/outbursts/bricked-and-mortared-rogan">"Bricked and Mortared"</a></h3>
+<p>The war of hostile brothers: the macroguns of the capitalists vs. the swords of the landlords</p>
+
+<h3><a href="https://thebaffler.com/latest/the-architects-autobiographer-rogan">"Justin Beal's "Sandfuture" is a tired little scrap of autofiction"</a></h3>
 <p>Book review</p>
 
 <h3><a href="https://reallifemag.com/send-in-the-clouds/">"Send in the clouds: bitcoin cities and undergrad business major fantasies"</a></h3>
 <p>The last time I'll ever write about 'smart cities'</p>
 
-<h3><a href="https://www.archpaper.com/2021/02/keller-easterling-medium-design-review/">"Keller Easterling’s _Medium Design_ ignores the role of power in design"</a></h3>
+<h3><a href="https://www.archpaper.com/2021/02/keller-easterling-medium-design-review/">"Keller Easterling’s "Medium Design" ignores the role of power in design"</a></h3>
 <p>Book review</p>
 
 <h3><a href="https://failedarchitecture.com/nycs-reopening-plans-depend-on-a-holy-trinity-of-diners-designers-and-capital/">"NYC’s Reopening Plans Depend on a Holy Trinity of Diners, Designers, and Capital"</a></h3>
