@@ -4,7 +4,9 @@ layout: page
 title: writing
 permalink: /writing/
 ---
-> Selected published articles below. See also <a href="https://kevinrogan.substack.com/">my Substack</a> here for more throwaway stuff, usually writeups on books.
+Selected published articles below. See also <a href="https://kevinrogan.substack.com/">my Substack</a> here for more throwaway stuff, usually writeups on books.
+
+***
 
 <h3><a href="https://www.archpaper.com/2022/04/a-new-book-argues-that-architecture-desperately-needs-fixing-but-what-if-it-needs-breaking-instead/">"Picking a Fight"</a></h3>
 <p>Architecture and extraction: friends forever</p>
