@@ -8,6 +8,9 @@ Selected published articles below. See also <a href="https://kevinrogan.substack
 
 ***
 
+<h3><a href="https://thebaffler.com/latest/planet-bloomberg-rogan">"Planet Bloomberg"</a></h3>
+<p>New terrains in global development</p>
+
 <h3><a href="https://www.archpaper.com/2022/04/a-new-book-argues-that-architecture-desperately-needs-fixing-but-what-if-it-needs-breaking-instead/">"Picking a Fight"</a></h3>
 <p>Architecture and extraction: friends forever</p>
 
